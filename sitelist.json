@@ -9,6 +9,242 @@
 	},
 
 	{
+		"website": "Amazon",
+		"domain": "https://www.amazon.com",
+		"settings": "https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn",
+		"changepassword": "https://www.amazon.com/gp/css/account/forgot-password/email.html",
+		"deleteaccount": "https://www.amazon.com/gp/help/customer/contact-us/?ie=UTF8&initialIssue=account-close",
+		"notes": "Must contact support to delete"
+	},
+
+	{
+		"website": "AtomTickets",
+		"domain": "https://www.atomtickets.com",
+		"settings": "https://www.atomtickets.com/settings/profile",
+		"changepassword": "https://www.atomtickets.com/forgot-password",
+		"deleteaccount": "https://www.atomtickets.com/help/entry/delete-atom-account",
+		"notes": "Must contact support to delete"
+	},
+
+	{
+		"website": "Discord",
+		"domain": "https://discordapp.com/login",
+		"settings": "https://support.discordapp.com/hc/en-us/categories/200404358-Account-Settings",
+		"changepassword": "https://support.discordapp.com/hc/en-us/articles/218410947-I-forgot-my-password-Where-can-I-set-a-new-one-",
+		"deleteaccount": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
+		"notes": ""
+	},
+	
+	{
+		"website": "Disneyland",
+		"domain": "https://disneyland.disney.go.com/",
+		"settings": "https://disneyland.disney.go.com/profile/account-settings/edit/",
+		"changepassword": "https://disneyland.disney.go.com/profile/account-settings/change-password/",
+		"deleteaccount": "https://disneyland.disney.go.com/faq/online-registration/how-to/",
+		"notes": "Must contact support to delete"
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	v
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	v
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	},
+	
+	{
 		"website": "",
 		"domain": "",
 		"settings": "",
@@ -17,285 +253,14 @@
 		"notes": ""
 	},
 
+	
 	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-	{
-		"website": 
-		"domain":
-		"settings":
-		"changepassword":
-		"deleteaccount":
-		"notes":
-	},
-
-
+		"website": "",
+		"domain": "",
+		"settings": "",
+		"changepassword": "",
+		"deleteaccount": "",
+		"notes": ""
+	}
 
 ]
